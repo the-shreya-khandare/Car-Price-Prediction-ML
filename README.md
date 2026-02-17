@@ -63,5 +63,8 @@ o	Transmission
 6.	Evaluate performance
 
 7.	Predict price for new car data
+
+## Car Price Prediction Code
+![image alt](https://github.com/the-shreya-khandare/Car-Price-Prediction-ML/blob/1a10c30654348b5b1428e5b50eb2b57ba7146329/Car_Price_Prediction.png)
    
 
