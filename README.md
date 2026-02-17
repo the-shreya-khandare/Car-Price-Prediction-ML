@@ -29,3 +29,14 @@ o	Mean Absolute Error (MAE)
 
 •	Making predictions on new custom input data
 
+## Machine Learning Model
+
+The project uses:
+
+Random Forest Regressor
+
+•	Ensemble learning technique
+
+•	Handles non-linear relationships effectively
+
+•	Provides robust performance on structured/tabular datasets
