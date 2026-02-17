@@ -40,3 +40,28 @@ Random Forest Regressor
 •	Handles non-linear relationships effectively
 
 •	Provides robust performance on structured/tabular datasets
+
+## Model Workflow
+1.	Import and explore dataset (old_car_data.csv)
+
+2.	Encode categorical features:
+
+o	Car_Name
+
+o	Fuel_Type
+
+o	Seller_Type
+
+o	Transmission
+
+3.	Scale input features
+
+4.	Split dataset into training and testing sets (80/20 split)
+
+5.	Train Random Forest model
+
+6.	Evaluate performance
+
+7.	Predict price for new car data
+   
+
