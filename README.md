@@ -8,14 +8,24 @@ To build a reliable regression model that can estimate the selling price of a us
 ## Project Overview
 The notebook demonstrates a complete ML workflow:
 •	Data loading and exploration using Pandas
+
 •	Data preprocessing and cleaning
+
 •	Handling categorical variables using Label Encoding
+
 •	Feature scaling using StandardScaler
+
 •	Train-test split for model evaluation
+
 •	Model training using Random Forest Regressor
+
 •	Model evaluation using:
+
 o	R² Score
+
 o	Mean Squared Error (MSE)
+
 o	Mean Absolute Error (MAE)
+
 •	Making predictions on new custom input data
 
