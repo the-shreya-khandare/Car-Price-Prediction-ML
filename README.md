@@ -7,6 +7,7 @@ To build a reliable regression model that can estimate the selling price of a us
 
 ## Project Overview
 The notebook demonstrates a complete ML workflow:
+
 •	Data loading and exploration using Pandas
 
 •	Data preprocessing and cleaning
@@ -30,7 +31,6 @@ o	Mean Absolute Error (MAE)
 •	Making predictions on new custom input data
 
 ## Machine Learning Model
-
 The project uses:
 
 Random Forest Regressor
